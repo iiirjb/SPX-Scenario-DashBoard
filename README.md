@@ -1,6 +1,6 @@
 # SPX-Scenario-DashBoard
 
-A GICs scenario builder for understanding SPX future price outcomes using varied assumptions for forward EPS growth and PE multiples.
+A GICs scenario builder for understanding SPX future price outcomes using varied assumptions for forward EPS growth and PE multiples. Assume 3 year EPS compounded growth and a current PE 3 years forward.
 
 ## Description
 
